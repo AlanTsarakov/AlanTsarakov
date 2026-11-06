@@ -2,9 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/199740156?s=150&v=4" width="130" alt="AlanTsarakov avatar">
 
-# Привет, я Алан
-
-Разработчик на C# / .NET и Flutter. Создаю приложения и ботов на осетинском языке.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%90%D0%BB%D0%B0%D0%BD%3BC%23%20%2F%20.NET%20%D0%B8%20Flutter%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%3B%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%B1%D0%BE%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E" alt="Привет, я Алан. Разработчик на C# / .NET и Flutter. Создаю проекты на осетинском языке.">
 
 [Репозитории](https://github.com/AlanTsarakov?tab=repositories) · [Достижения](https://github.com/AlanTsarakov?tab=achievements)
 
@@ -32,7 +30,7 @@
 - [GuessWord](https://github.com/AlanTsarakov/GuessWord) — Игра по правилам Wordle с осетинскими словами.
 - [flutter_ossetian_learning_app](https://github.com/AlanTsarakov/flutter_ossetian_learning_app) — Мобильное приложение для изучения осетинского языка.
 - [Avzag](https://github.com/AlanTsarakov/Avzag) + [WebApiAvzag](https://github.com/AlanTsarakov/WebApiAvzag) — Клиент и Web API приложения для изучения осетинского языка.
-- [WeatherApp](https://github.com/AlanTsarakov/WeatherApp) — Приложение на WPF с прогнозом погоды по городам.
+- [WeatherApp](https://github.com/AlanTsarakov/WeatherAppAppWpf) — Приложение на WPF с прогнозом погоды по городам.
 - [MailingBot](https://github.com/AlanTsarakov/MailingBot) — Telegram-бот, автоматически добавляющий email-адреса в Unisender.
 
 > 💡 Полный список — на странице [репозиториев](https://github.com/AlanTsarakov?tab=repositories).
@@ -56,10 +54,7 @@
 
 ### 📊 Статистика
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanTsarakov&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&locale=ru" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTsarakov&layout=compact&theme=github_dark&hide_border=true&locale=ru" alt="Top languages" height="170">
-</div>
+[График вкладов и недавняя активность на GitHub](https://github.com/AlanTsarakov#contributions-calendar)
 
 ---
 
