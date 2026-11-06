@@ -52,12 +52,6 @@
 
 ---
 
-### 📊 Статистика
-
-[График вкладов и недавняя активность на GitHub](https://github.com/AlanTsarakov#contributions-calendar)
-
----
-
 ### 🏆 Достижения
 
 <div align="center">
